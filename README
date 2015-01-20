@@ -1,0 +1,15 @@
+
+The Missionary and Cannibal Problem:
+
+Three missionaries and three cannibals come to the bank of a river. They would like to cross to the other side of the river. There is one boat. The boat can carry up to two people at one time, but doesn’t row itself – at least one person must be in the boat for the boat to move. If at any time there are more cannibals than missionaries on either side of the river, then those missionaries get eaten.
+
+Solution using different search methods:
+
+1. Breadth first search
+2. Memoizing depth-first search
+3. Path-checking depth-first search
+4. Iterative deepening search
+
+Used skeleton from Professor Balkcom.
+
+-Robin Wang
